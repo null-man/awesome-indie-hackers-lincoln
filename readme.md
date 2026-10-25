@@ -107,3 +107,9 @@ Vou continuar adicionando outras ferramentas.
 
 Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev?utm_source=github)
 - [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga, and screenplay editors. Built-in marketplace for selling stories.
+
+## AI Video Makers
+
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com):** Independent AI — two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok).
+- **[Bad Times AI](https://badtimesai.dev):** Independent AI dance effect — one photo → 14–15s portrait dance video (Paid from $7.99).
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com):** Independent AI scene effect — two photos → balcony/spotlight meeting video (Paid from $7.99).
